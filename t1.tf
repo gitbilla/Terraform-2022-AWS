@@ -14,3 +14,4 @@ provider "aws" {
 
 # AMI : ami-06489866022e12a14
 # key : billanewkey
+# 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
